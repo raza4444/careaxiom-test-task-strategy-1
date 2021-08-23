@@ -1,0 +1,23 @@
+{
+  "name": "test-careaxiom",
+  "version": "1.0.0",
+  "description": "webscrapping",
+  "author": "Raza <mraza8040@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/katjuell/nodejs-image-demo.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "got": "^11.8.2",
+    "https": "^1.0.0",
+    "jsdom": "^17.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
